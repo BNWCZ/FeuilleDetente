@@ -126,3 +126,9 @@ navigateur reste ouvert à la fin pour inspection (Ctrl+C pour quitter).
 | `main.py`                | Point d'entrée CLI + logique de construction des jours.           |
 | `week.py`                | Calcul de la semaine (dimanche→samedi) et des jours fériés.       |
 | `automation.py`          | Automatisation du navigateur (Playwright).                        |
+
+## Maintenance
+
+Projet offert à la communauté, sans mainteneur attitré. N'hésitez pas à forker,
+pousser vos améliorations et vous organiser entre vous : il n'y a pas de
+processus de revue imposé. L'outil est fourni « tel quel », sans garantie.
