@@ -1,0 +1,5 @@
+.env
+debug/
+error-screenshot.png
+__pycache__/
+*.pyc
